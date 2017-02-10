@@ -1,2 +1,9 @@
 # filezilla-Log-View
-Load/view logs from Filezilla. Export needed rows.
+## Current features
+* Select filezilla log file.
+* Load filezilla log file for sort/view
+* Select rows for export to text
+
+## Needed improvements
+* File to Dataset prior to DataGridView
+* Filter Dataset
